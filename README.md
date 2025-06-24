@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="[https://i.ibb.co/bR3RRqKv/Abstract-Technology-Profile-Linked-In-Banner.png]" alt="banner" style="width:100%;"/>
+<img src="https://i.ibb.co/bR3RRqKv/Abstract-Technology-Profile-Linked-In-Banner.png" alt="banner" style="width:100%;"/>
 
 # 👋 Hi, I'm Md Raihan Ali 
 ### 💻 Frontend Web Developer | React | MongoDB | Firebase
@@ -37,7 +37,7 @@ Always learning and improving my craft.
 ## 🔗 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raihanbogra697@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/md-raihan-ali-1a62a034a/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-raihan-ali-1a62a034a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/KiraGaming)
 
 ---
