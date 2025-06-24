@@ -46,7 +46,7 @@ Always learning and improving my craft.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kira217-cyber&show_icons=true&theme=radical" height="180" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kira217-cyber&theme=radical" height="180" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=kira217-cyber&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira217-cyber&layout=compact&theme=radical" height="180" />
 </p>
 
