@@ -46,7 +46,6 @@ Always learning and improving my craft.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kira217-cyber&show_icons=true&theme=radical" height="180" />
-  ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=kira217-cyber&theme=github)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira217-cyber&layout=compact&theme=radical" height="180" />
 </p>
 
