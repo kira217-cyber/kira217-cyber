@@ -1,7 +1,10 @@
 <!-- Banner Image -->
 <img src="https://i.ibb.co/bR3RRqKv/Abstract-Technology-Profile-Linked-In-Banner.png" alt="banner" style="width:100%;"/>
 
-#  Md Raihan Ali 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
+<br>
 ### 💻 Frontend Web Developer | React | MongoDB | Firebase
 
 ---
