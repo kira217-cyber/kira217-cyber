@@ -60,7 +60,7 @@
  <a href="discordapp.com/users/1001524274009489440">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
  <a href="https://www.linkedin.com/in/hussainweb/" target="_blank">
-  <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/0A66C2/ffffff">
+  <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://i.ibb.co.com/xK0Z1n5j/Linked-In-icon-svg.webp/0A66C2/ffffff">
 </a>
 </p>
 
