@@ -70,9 +70,10 @@
 ## **📈 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kira217-cyber&show_icons=true&theme=tokyonight" height="200" width="460" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira217-cyber&layout=compact&theme=tokyonight" height="200" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kira217-cyber&show_icons=true&theme=dracula&hide_border=false&border_radius=10&title_color=ff6e96&text_color=ffffff&icon_color=79ff97&bg_color=0d1117" height="220" width="460" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira217-cyber&layout=compact&theme=dracula&hide_border=false&title_color=00e5ff&text_color=ffffff&bg_color=0d1117" height="220" width="360" />
 </p>
+
 
 
 ## Here are some ideas to get you started:
