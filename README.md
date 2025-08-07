@@ -59,9 +59,9 @@
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
  <a href="discordapp.com/users/1001524274009489440">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-  <a href="https://twitter.com/your-profile">
-    <img height="50" src="https://your-repo-path/icons/twitter-colored.png" />
-  </a>
+ <a href="https://www.linkedin.com/in/hussainweb/" target="_blank">
+  <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/0A66C2/ffffff">
+</a>
 </p>
 
 ---
