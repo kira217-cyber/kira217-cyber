@@ -19,18 +19,26 @@ Always learning and improving my craft.
 
 ---
 
-## 🚀 Skills & Technologies
+## :computer: Technologies that I know
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
+<br>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 </p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p>
+
+<br/>
 
 ---
 
