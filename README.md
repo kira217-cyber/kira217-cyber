@@ -17,10 +17,11 @@
 ## **🔸 𝑪𝑼𝑹𝑹𝑬𝑵𝑻 𝑨𝑪𝑻𝑰𝑽𝑰𝑻𝑰𝑬𝑺 :**
 
 
-- 🌱 Currently exploring **Next.js** and **backend with Node.js**
-- 🔧 Working on a **my new project**
-- 🔐 Experimenting with **Firebase authentication systems**
-- 🚀 Planning to contribute to open-source projects
+- 🌱 Ｃｕｒｒｅｎｔｌｙ ｅｘｐｌｏｒｉｎｇ Ｎｅｘｔ．ｊｓ ａｎｄ ｂａｃｋｅｎｄ ｗｉｔｈ Ｎｏｄｅ．ｊｓ
+- 🔧 Ｗｏｒｋｉｎｇ ｏｎ ａ ｍｙ ｎｅｗ ｐｒｏｊｅｃｔ
+- 🔐 Ｅｘｐｅｒｉｍｅｎｔｉｎｇ ｗｉｔｈ Ｆｉｒｅｂａｓｅ ａｕｔｈｅｎｔｉｃａｔｉｏｎ ｓｙｓｔｅｍｓ
+- 🚀 Ｐｌａｎｎｉｎｇ ｔｏ ｃｏｎｔｒｉｂｕｔｅ ｔｏ ｏｐｅｎ－ｓｏｕｒｃｅ ｐｒｏｊｅｃｔｓ
+
 
 ---
 
