@@ -52,9 +52,17 @@
 
 ## **🔗 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚 :**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raihanbogra697@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-raihan-ali-1a62a034a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/kira217-cyber)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img height="50" src="https://your-repo-path/icons/linkedin-colored.png" />
+  </a>
+  <a href="https://facebook.com/your-profile">
+    <img height="50" src="https://your-repo-path/icons/facebook-colored.png" />
+  </a>
+  <a href="https://twitter.com/your-profile">
+    <img height="50" src="https://your-repo-path/icons/twitter-colored.png" />
+  </a>
+</p>
 
 ---
 
