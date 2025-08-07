@@ -53,16 +53,22 @@
 ## **🔗 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚 :**
 
 <p align="center">
-   <a href="https://github.com/kira217-cyber">
+  <a href="https://github.com/kira217-cyber" style="margin: 0 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
- <a href="discordapp.com/users/1001524274009489440">
-    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
- <a href="https://www.linkedin.com/in/hussainweb/" target="_blank">
-  <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://i.ibb.co.com/xK0Z1n5j/Linked-In-icon-svg.webp/0A66C2/ffffff">
-</a>
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+    </picture>
+  </a>
+
+  <a href="https://discordapp.com/users/1001524274009489440" style="margin: 0 10px;">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord">
+  </a>
+
+  <a href="https://www.linkedin.com/in/hussainweb/" target="_blank" style="margin: 0 10px;">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/0A66C2/ffffff">
+  </a>
 </p>
+
 
 ---
 
