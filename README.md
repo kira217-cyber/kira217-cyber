@@ -59,7 +59,7 @@
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
  <a href="discordapp.com/users/1001524274009489440" style="margin: 0 30px;">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
- <a href="https://www.linkedin.com/in/hussainweb/" target="_blank" style="margin: 0 30px;">
+ <a href="https://www.linkedin.com/in/md-raihan-ali7/" target="_blank" style="margin: 0 30px;">
   <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://i.ibb.co.com/xK0Z1n5j/Linked-In-icon-svg.webp/0A66C2/ffffff">
 </a>
 </p>
