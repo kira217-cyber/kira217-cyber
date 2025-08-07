@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kira217-cyber&show_icons=true&theme=tokyonight" height="180" width="460" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira217-cyber&layout=compact&theme=tokyonight" height="200" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira217-cyber&layout=compact&theme=tokyonight" height="210" width="360" />
 </p>
 
 
