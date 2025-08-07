@@ -26,6 +26,7 @@ Always learning and improving my craft.
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://i.ibb.co.com/YBj5gx2j/daisyui-logo-2000.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
@@ -35,6 +36,8 @@ Always learning and improving my craft.
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+</p>
+<p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
 
