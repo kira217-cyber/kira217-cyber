@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://i.ibb.co/bR3RRqKv/Abstract-Technology-Profile-Linked-In-Banner.png" alt="banner" style="width:100%;"/>
 
-# 👋 Hi, I'm Md Raihan Ali 
+#  Md Raihan Ali 
 ### 💻 Frontend Web Developer | React | MongoDB | Firebase
 
 ---
