@@ -53,9 +53,10 @@
 ## **🔗 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚 :**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img height="50" src="https://i.ibb.co.com/bjdzCB2N/images.png" />
-  </a>
+   <a href="https://github.com/kira217-cyber">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://facebook.com/your-profile">
     <img height="50" src="https://your-repo-path/icons/facebook-colored.png" />
   </a>
