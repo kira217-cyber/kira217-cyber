@@ -67,7 +67,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## **📈 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kira217-cyber&show_icons=true&theme=radical" height="180" />
