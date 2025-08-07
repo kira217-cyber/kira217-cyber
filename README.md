@@ -24,7 +24,7 @@
 
 ---
 
-## :computer: Technologies that I know
+🔸 𝑻𝑬𝑪𝑯𝑵𝑶𝑳𝑶𝑮𝑰𝑬𝑺 𝑻𝑯𝑨𝑻 𝑰 𝑲𝑵𝑶𝑾 :
 
 <br>
 <p align="center">
