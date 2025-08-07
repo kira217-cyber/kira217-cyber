@@ -13,14 +13,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## Current Activities:
 
 I'm a passionate frontend web developer who loves building modern web apps.  
 I enjoy working with React, Firebase, MondoDB and styling with Tailwind CSS.  
 Always learning and improving my craft.
 
 - 🌱 Currently exploring **Next.js** and **backend with Node.js**
-- 🔧 Working on a **tourism booking website**
+- 🔧 Working on a **my new project**
 - 🔐 Experimenting with **Firebase authentication systems**
 - 🚀 Planning to contribute to open-source projects
 
