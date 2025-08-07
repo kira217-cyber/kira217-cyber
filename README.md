@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile">
-    <img height="50" src="https://your-repo-path/icons/linkedin-colored.png" />
+    <img height="50" src="https://i.ibb.co.com/bjdzCB2N/images.png" />
   </a>
   <a href="https://facebook.com/your-profile">
     <img height="50" src="https://your-repo-path/icons/facebook-colored.png" />
