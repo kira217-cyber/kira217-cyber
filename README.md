@@ -3,6 +3,7 @@
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 _Md Raihan Ali_
 🔥 𝑰 𝒂𝒎 𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓!
+
 🎯 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒆𝒅 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑭𝒊𝒓𝒆𝒃𝒂𝒔𝒆 & 𝑵𝒐𝒅𝒆.𝒋𝒔
 
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒗𝒆, 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝒘𝒆𝒃 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔.
@@ -13,11 +14,8 @@
 
 ---
 
-## Current Activities:
+**🔸 𝑪𝑼𝑹𝑹𝑬𝑵𝑻 𝑨𝑪𝑻𝑰𝑽𝑰𝑻𝑰𝑬𝑺 :**
 
-I'm a passionate frontend web developer who loves building modern web apps.  
-I enjoy working with React, Firebase, MondoDB and styling with Tailwind CSS.  
-Always learning and improving my craft.
 
 - 🌱 Currently exploring **Next.js** and **backend with Node.js**
 - 🔧 Working on a **my new project**
