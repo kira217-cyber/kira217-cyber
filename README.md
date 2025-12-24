@@ -2,35 +2,28 @@
 <img src="https://i.ibb.co/bR3RRqKv/Abstract-Technology-Profile-Linked-In-Banner.png" alt="banner" style="width:100%;"/>
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 _Md Raihan Ali_
-🔥 𝑰 𝒂𝒎 𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓!
+🔥 **Full MERN Stack Developer**
 
-🎯 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒆𝒅 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑭𝒊𝒓𝒆𝒃𝒂𝒔𝒆 & 𝑵𝒐𝒅𝒆.𝒋𝒔
+🎯 Specialized in **React.js, Node.js, Express.js, MongoDB, Firebase**
 
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒓𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒗𝒆, 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝒘𝒆𝒃 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔.
+💡 Passionate about building **scalable, modern, and real-world web applications** with clean UI and efficient backend architecture.
 
-⚡ 𝑹𝒆𝒂𝒄𝒕 𝒇𝒂𝒏𝒂𝒕𝒊𝒄 | 𝑸𝒖𝒊𝒄𝒌 𝒍𝒆𝒂𝒓𝒏𝒆𝒓 | 𝑪𝒍𝒆𝒂𝒏 𝑼𝑰 𝒍𝒐𝒗𝒆𝒓 | 𝑭𝒊𝒓𝒆𝒃𝒂𝒔𝒆 𝒈𝒆𝒆𝒌
+⚡ React enthusiast | Fast learner | Clean UI lover | Backend growth-focused developer
 
-🧠 𝑳𝒆𝒕'𝒔 𝒃𝒓𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆 — 𝑪𝒉𝒆𝒄𝒌 𝒐𝒖𝒕 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔!
+🧠 Let’s turn ideas into production-ready applications — check out my projects below!
 
 ---
 
 ## **🔸 𝑪𝑼𝑹𝑹𝑬𝑵𝑻 𝑨𝑪𝑻𝑰𝑽𝑰𝑻𝑰𝑬𝑺 :**
 
-
-
-🌱 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝑵𝒆𝒙𝒕.𝒋𝒔 𝒂𝒏𝒅 𝒃𝒂𝒄𝒌𝒆𝒏𝒅 𝒘𝒊𝒕𝒉 𝑵𝒐𝒅𝒆.𝒋𝒔
-
-🔧 𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏 𝒂 𝒎𝒚 𝒏𝒆𝒘 𝒑𝒓𝒐𝒋𝒆𝒄𝒕
-
-🔐 𝑬𝒙𝒑𝒆𝒓𝒊𝒎𝒆𝒏𝒕𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑭𝒊𝒓𝒆𝒃𝒂𝒔𝒆 𝒂𝒖𝒕𝒉𝒆𝒏𝒕𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒔𝒚𝒔𝒕𝒆𝒎𝒔
-
-🚀 𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆 𝒕𝒐 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔
-
-
+🌱 Exploring **Next.js** and advanced backend development with **Node.js & Express.js**  
+🔧 Working on **real-world full-stack projects**  
+🔐 Implementing secure **authentication & authorization systems (Firebase, JWT)**  
+🚀 Planning to contribute to **open-source projects** and collaborative development  
 
 ---
 
-## **🔸𝑻𝑬𝑪𝑯𝑵𝑶𝑳𝑶𝑮𝑰𝑬𝑺 𝑻𝑯𝑨𝑻 𝑰 𝑲𝑵𝑶𝑾 :**
+## **🔸 𝑻𝑬𝑪𝑯𝑵𝑶𝑳𝑶𝑮𝑰𝑬𝑺 𝑻𝑯𝑨𝑻 𝑰 𝑲𝑵𝑶𝑾 :**
 
 <br>
 <p align="center">
@@ -39,15 +32,18 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img src="https://i.ibb.co.com/YBj5gx2j/daisyui-logo-2000.png" alt="DaisyUI" height="60" />
 </p>
+
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 </p>
+
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p>
+
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
@@ -70,7 +66,6 @@
 </a>
 </p>
 
-
 ---
 
 ## **📈 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔**
@@ -79,7 +74,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kira217-cyber&show_icons=true&theme=tokyonight" height="170" width="460" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira217-cyber&layout=compact&theme=tokyonight" height="210" width="360" />
 </p>
-
-
-
-
