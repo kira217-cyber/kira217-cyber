@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co.com/Yn21dzN/PROGRAMMER.png" alt="banner" style="width:100%;"/>
+<img src="https://i.ibb.co.com/xqdBxLzW/DEVELOPER.png" alt="banner" style="width:100%;"/>
 
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 _Md Raihan Ali_
 🔥 **Full MERN Stack Developer**
